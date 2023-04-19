@@ -17,7 +17,6 @@ public static void main(String[] args) {
 		 * 자바 표준 API에서 제공하는 다양한 예외클래스들은
 		 * 각각의 예외 원인 메세지가 기본적으로 객체 안에 저장되어 있습니다.
 		 */
-		e.
 		System.err.println(e.getMessage());
 	} catch (DepositMinusMoneyException e) {
 		System.err.println(e.getMessage());
@@ -25,7 +24,7 @@ public static void main(String[] args) {
 	System.out.println(new StringBuffer("출금 후 잔액 : ")
 										.append(acc.getBalance())
 										.append("원"));
-	
+
 	
 }
 }
