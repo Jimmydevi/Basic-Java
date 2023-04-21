@@ -7,7 +7,7 @@ import java.util.List;
 public class ListExample {
 public static void main(String[] args) {
 
-	//ArrayList와 LinkedList는 사용야식은 전부 List를 따릅니다.
+	//ArrayList와 LinkedList는 사용양식은 전부 List를 따릅니다.
 	//따라서 교환이 가능합니다. 인터페이스가 같은 구현체들은 사용법이 같습니다.
 	//제네릭: 타이 안정화를 위해 객체 내부에서 저장되는 타입을 일치시키는 방법
 	//String만 저장할 수 있는 컬랙션

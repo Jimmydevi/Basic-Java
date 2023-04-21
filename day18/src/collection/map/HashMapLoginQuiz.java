@@ -22,9 +22,9 @@ public static void main(String[] args) {
 	//		미리 생성된 HashMap에 저장합니다.
 	//		그리고 입력이 완료되면 ID와 PW를 다시 물어봐서
 	//		로그인 입력값 검증대로 수행하도록 하는 코드를 작성해주세요.	
-	Scanner scan = new Scanner(System.in);
-	
-	Map<String, String> login = new HashMap();
+/*
+ * 	Scanner scan = new Scanner(System.in);
+ * 	Map<String, String> login = new HashMap();
 	login.put("id1", "pw1");
 	login.put("id2", "pw2");
 	login.put("id3", "pw3");
@@ -49,3 +49,6 @@ public static void main(String[] args) {
 	scan.close();
 }
 }
+ */
+	
+
